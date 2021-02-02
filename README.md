@@ -7,3 +7,5 @@ Conocimientos implementados:
 - Colecciones.
 - Comparator.
 - JUnit.
+
+Nota del examen: 10.
